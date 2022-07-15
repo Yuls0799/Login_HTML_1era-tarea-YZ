@@ -1,0 +1,24 @@
+{
+  "name": "login_html_1era-tarea-yz",
+  "version": "1.0.0",
+  "description": "Connection Mongodb and NodeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yuls0799/Login_HTML_1era-tarea-YZ.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yuls0799/Login_HTML_1era-tarea-YZ/issues"
+  },
+  "homepage": "https://github.com/Yuls0799/Login_HTML_1era-tarea-YZ#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "express": "^4.18.1",
+    "mongoose": "^6.4.4"
+  }
+}
